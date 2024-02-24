@@ -1,0 +1,6 @@
+{
+    "dart.flutterSdkPaths": [
+        "Android Studio->preferences->Build, Execution, Deployment->Compiler"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
